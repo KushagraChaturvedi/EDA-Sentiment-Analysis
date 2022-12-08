@@ -1,0 +1,58 @@
+1                  Algeria
+                  Argentina
+5                Australia
+42              Bangladesh
+56                 Belgium
+17                  Brazil
+33                Cameroon
+21                  Canada
+19                   Chile
+14                   China
+24                Colombia
+50                 Czechia
+39                 Ecuador
+2                    Egypt
+27                Ethiopia
+3                   France
+4                  Germany
+45                   Ghana
+53               Hong Kong
+0                    India
+22               Indonesia
+32                    Iran
+57                 Ireland
+23                  Israel
+12                   Italy
+20                   Japan
+30                   Kenya
+51                Malaysia
+10                  Mexico
+37                 Morocco
+36                   Nepal
+43             Netherlands
+18                 Nigeria
+
+6                    Other
+9                 Pakistan
+35                    Peru
+38             Philippines
+47                  Poland
+46                Portugal
+49                 Romania
+25                  Russia
+48            Saudi Arabia
+11               Singapore
+28            South Africa
+7              South Korea
+31                   Spain
+52               Sri Lanka
+13                  Taiwan
+40                Thailand
+34                 Tunisia
+16                  Turkey
+41                     UAE
+26                      UK
+8                      USA
+54                 Ukraine
+29                 Vietnam
+44                Zimbabwe
